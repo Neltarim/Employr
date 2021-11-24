@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mike",
+        "last_name": "Taylor",
+        "birthday": "01/12/1996",
+        "company_entrance": "05/10/2020",
+        "skills": [
+            {
+                "name": "algo",
+                "level": "4"
+            }
+        ]
+    }
+]
